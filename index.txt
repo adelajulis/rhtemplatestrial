@@ -1,0 +1,62 @@
+=====================================================================
+RECRUITHUB TEMPLATE LIBRARY — INDEX
+=====================================================================
+This is the official online list of RecruitHub templates for its
+clients (recruitment and executive search firms). RecruitHub keeps it
+up to date. Each template is a plain text file with instructions for
+building that document in the client's own brand.
+
+INSTRUCTIONS FOR CLAUDE
+The client asked to see or use the RecruitHub templates.
+1. Show the list below as a short numbered menu: name + format +
+   one line on what it is for. Ask which one they want, or suggest
+   one if they already said what they need.
+2. When they choose, open ONLY that template's link and follow the
+   instructions in it, exactly as if they had attached the file.
+3. If a link does not open: tell them in one sentence and ask them
+   to attach the same template from the folder 'Prompts - Claude
+   templates' in their Claude folder (same number and name).
+
+TEMPLATES
+
+00  Create From Scratch
+    Format: Any format (slides, A4, LinkedIn post, carousel, banner, story)
+    Use it for: Something new that no other template covers.
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/00-create-from-scratch.txt
+
+01  Pitch / Proposal
+    Format: Presentation 16:9 · 12 slides · PDF / PowerPoint
+    Use it for: Winning a new client: who you are, how you work, case studies, fees.
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/01-pitch-proposal.txt
+
+02  Consultant Bio
+    Format: A4 portrait · 1 page · PDF (+ LinkedIn 1080×1350)
+    Use it for: Introducing a consultant to a client or candidate.
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/02-consultant-bio.txt
+
+03  Post-placement Analytics Report
+    Format: Presentation 16:9 · ~12 slides with charts · PDF / PowerPoint
+    Use it for: Showing a client the results of a search or placement.
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/03-post-placement-analytics-report.txt
+
+04  RaaS Proposal
+    Format: Presentation 16:9 · ~12 slides with tables · PDF / PowerPoint
+    Use it for: Proposing Recruitment-as-a-Service (ongoing hiring support).
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/04-raas-proposal.txt
+
+05  Company Overview / E-brochure
+    Format: Presentation 16:9 · ~6 slides · PDF / PowerPoint
+    Use it for: A short intro of the company to email or share.
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/05-company-overview-e-brochure.txt
+
+06  LinkedIn Job Offer
+    Format: LinkedIn post 1080×1350 (or carousel) + caption · PNG
+    Use it for: Announcing an open role on LinkedIn.
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/06-linkedin-job-offer.txt
+
+07  LinkedIn Testimonial
+    Format: LinkedIn post 1080×1350 (or carousel) + caption · PNG
+    Use it for: Sharing a real, approved client or candidate quote.
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/07-linkedin-testimonial.txt
+
+=====================================================================

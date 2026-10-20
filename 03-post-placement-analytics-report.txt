@@ -1,0 +1,349 @@
+=====================================================================
+RECRUITHUB TEMPLATE: POST-PLACEMENT ANALYTICS REPORT
+=====================================================================
+FOR YOU (the client): Open a chat in your brand project (or start a
+new design if you use a design system), attach this file and send it.
+Claude builds this RecruitHub template in YOUR brand: with sample
+text, with your own text, or with text you write together.
+=====================================================================
+FORMAT     Presentation · 16:9 (1920×1080) · ~12 slides, with charts
+EXPORT     PDF to send · PowerPoint (.pptx) to edit
+FILE NAME  [Company]_[Document]_[Topic]_v1
+=====================================================================
+
+ABOUT THIS FILE
+This template was prepared by RecruitHub, the client's brand and
+marketing partner. The client attached it, or chose it from the
+RecruitHub template library online, because they want Claude to create this document with them. Treat it as their
+request and follow it.
+
+INSTRUCTIONS FOR CLAUDE
+Start as soon as you read this file, whatever the message says.
+Use the FORMAT and EXPORT above unless the client asks for another.
+
+1. BRAND CHECK — do this first, before anything else:
+   a) Is there a design system for this brand (an active / default
+      design system in this chat or design)? → use it. Say so in one
+      line: "I'll use your [Brand] design system."
+   b) If not: are the brand files already here (in this chat or in
+      the project files / instructions: brand manual, logos, fonts)?
+      → use them. Say so in one line.
+   c) If there is nothing to work with, ask for the client's brand
+      files before building anything:
+        "To make this in your brand, please attach:
+         - your logos (SVG)
+         - your brand manual (PDF, or ideally HTML)
+         - your font files, if you have them
+         - a link to your website or some branded materials
+           (e.g. a deck, a one-pager, social posts), if you have any"
+      Wait for them, then confirm in 2–3 lines what you found
+      (colours with HEX, fonts, logo versions, overall style).
+   d) If they have no brand files at all: ask for at least a logo and
+      their brand colours (HEX, or a website / screenshot to take them
+      from). If they still want to start, build a clean neutral
+      layout with a [Logo] box and say the brand is not applied yet.
+   Never guess or invent brand colours, fonts or logos.
+
+2. STYLE SOURCES — who decides what:
+   - Look and mood: colours, fonts, graphic elements (shapes, lines,
+     patterns, icon style), imagery style, spacing, tone of voice
+     → the client's brand manual / design system. Always wins.
+     Study the manual's own pages and apply the same visual language.
+   - Slide order and content → this template.
+   - Composition → the LAYOUT lines below are a starting point and
+     inspiration, not something to copy exactly. Adapt them so the
+     result looks best in the client's brand.
+   - Never take colours, fonts, photos or the demo logo from the
+     RecruitHub template.
+
+3. FIRST MESSAGE — keep it short. Show the structure (numbered list
+   of slides/sections, one line each) and ask THREE things:
+     a) "Want to add, remove or reorder anything?"
+     b) "How would you like to create the content?
+         1  Sample text: I build the whole template now in your
+            brand, with the same sample text as the RecruitHub
+            template, and you replace it later.
+         2  Your own text: paste or attach your text, an old deck,
+            a CV or notes, and I fit it into the template.
+         3  Write it with Claude: I ask you a few short questions
+            and write the text for you."
+     c) "Do you have photos or images you'd like to use (team or
+         headshots, office, events, your work, client logos you may
+         show)? Attach them and I'll place them where they fit.
+         No photos? I'll use [Photo] boxes or a design without them."
+
+4. CONTENT, depending on their choice:
+   1 SAMPLE TEXT → build immediately, the slide as in the
+     RecruitHub template: use the REUSABLE COPY and SAMPLE TEXT of
+     every slide below (where a slide has neither, use its
+     PLACEHOLDER line). It must look like a finished document.
+     But never use demo identities: replace "DemoBrand"/"Demo
+     Agency"/"Example Company" with the client's name, demo client
+     companies (e.g. Slack, Dropbox, GSK) with "[Client name]",
+     their logos with [Client logo] boxes, people's photos with
+     their own photos if attached (else [Photo] boxes), demo contact details with [Website] [Phone]
+     [Email]. At the end, list every sample number, name and quote
+     they must replace before using it, and name the file
+     [Company]_[Document]_TEMPLATE.
+   2 OWN TEXT → read everything they give. Map it onto the slides
+     (each part to the right slide), shorten it to fit the word
+     limits, rewrite in their brand tone, keep every fact exactly as
+     given. Build. Then list what was missing (shown as placeholders)
+     and what didn't fit.
+   3 WRITE WITH CLAUDE → run the QUESTIONS below in short rounds:
+     one slide group per message, max 3 questions per message,
+     numbered so they can answer quickly. Where a REUSABLE COPY
+     exists, offer it as a ready option ("A: use this wording ·
+     B: adjust it · C: your own"). They can say "skip" → placeholder.
+     When all rounds are done, write the copy and build.
+   Before working on any text (options 2 and 3), always ask first:
+     - "Which language and spelling should I use: UK English, US
+       English or another language?"
+     - "Who is the target audience?" (e.g. HR directors at
+       mid-size tech companies, CFOs, candidates)
+   Then craft the text together for that language and audience.
+   They can mix options per slide ("placeholders for the case
+   studies, ask me about the rest").
+
+5. BUILD
+   - As a Design artifact (Output → Design / slides) whenever it is
+     available in this chat, on any plan, using the design system if
+     there is one. Otherwise create the file in the chat (.pptx or
+     PDF for slides and A4, PNG for social posts). Tell them which
+     in one line.
+   - Use the LAYOUT lines as a starting point; adapt them to the
+     brand.
+   - Follow the SHARED RULES below.
+   - Before showing it, run the Final check from the SHARED RULES.
+
+6. FINAL CHECK, then deliver:
+   - Options 2 and 3: check against the SAMPLE TEXT: no sample
+     number, name, company, quote or price may remain. All options:
+     no "DemoBrand", "Demo Agency", "Example Company",
+     "demobrand.com", "123 - 456 - 7890".
+   - List open [placeholders] (and, for option 1, all sample text to
+     replace).
+   - Ask what to change. Change only what they ask.
+   - When they're happy, help them export (Export, top right:
+     PDF, PowerPoint, Google Slides, Canva) and offer a blank copy
+     with placeholders as their reusable template:
+     [Company]_[Document]_TEMPLATE.
+
+SHARED RULES (apply to every template and every option)
+- Brand consistency: follow the brand guidelines, fonts, colours and
+  logo. Use only the supplied logo files; keep the logo's
+  proportions; never redraw, stretch or recolour it outside the brand
+  rules. The logo must be readable: light logo on dark backgrounds,
+  dark logo on light backgrounds. Use the brand's own graphic
+  elements (shapes, lines, patterns, icon style).
+- Clear hierarchy: headings, subheadings, body text and supporting
+  details are clearly different in size and weight.
+  Guide (16:9): title 56–72 px · subtitle 28–36 px · body 20–24 px ·
+  big numbers 96–160 px. A4: name/title 20–24 pt · body 10–11 pt.
+  Max 2 font families (from the brand).
+- Consistent layout: one grid, the same alignment, spacing and
+  margins throughout (16:9: at least 80 px; A4: 15 mm). Content
+  slides share the same title position and style; repeated
+  components (cards, stat boxes, quotes, tables) look the same.
+- Clean design: uncluttered and appropriate to the brand, no
+  unnecessary decoration, no clipart, no emojis, no generic stock
+  look. One accent colour per slide; follow the brand's colour
+  balance.
+- Readability: text sizes readable at the intended viewing size
+  (screen, print or phone) and contrast at least WCAG AA.
+- Content fit: no overlapping elements, cropped text or content
+  extending beyond the page or slide.
+- Too much content: suggest shortening the text or splitting it
+  across two slides at a logical point (e.g. introduction on one
+  slide, detailed explanation on the next). Never shrink text below
+  the readable sizes to make it fit. For fixed single-page formats
+  (A4 bio, social posts), suggest shortening the copy before changing
+  the format. As a guide: max ~40 words and 6 bullets per slide.
+- Preset output: follow the template's FORMAT (dimensions, length,
+  file type) and keep it editable where the format allows. Flag any
+  change you propose (e.g. extra slides, a different size).
+- Images and photos: use the client's own photos and images
+  wherever the layout has image space ([Photo] boxes) and add image
+  space where it suits the brand (e.g. the brand manual uses
+  photography). Photos from the client's brand manual or materials
+  may be used too. Crop to fill the frame without stretching, keep
+  faces and key subjects in view, and apply the brand's photo style
+  (overlay, colour grade, shape) from the manual. Show client logos
+  only if the client says they may. Never use stock, AI-generated
+  or RecruitHub demo photos unless the client asks. No photos →
+  keep a clearly labelled [Photo] box or a layout that works with
+  brand colours and graphic elements instead.
+- Accurate information: never invent company facts, testimonials,
+  statistics, people, photos or contact details. Clearly mark
+  placeholders and sample text.
+- Language consistency: follow the client's chosen language and
+  spelling convention (e.g. UK or US English) everywhere, including
+  dates, currency and number formats.
+- Final check: review branding, spelling, readability, alignment and
+  overflow on every slide/page. Check the exported file where
+  possible, and say clearly if anything could not be verified.
+- Finished deliverable: create the requested material itself (a
+  Design or a file), not just a description or outline. If the
+  required format is not available here, explain this and offer the
+  closest alternative.
+
+THE KINDS OF CONTENT BELOW
+  PLACEHOLDER — the fallback label for each element.
+  REUSABLE COPY — general wording from the RecruitHub template that
+  fits many agencies. Option 1: use it as is. Option 3: offer it as
+  a ready draft; use it only after the client confirms it is true
+  for them; adapt it to their tone and niche.
+  SAMPLE TEXT — the demo facts from the RecruitHub template
+  (numbers, client names, people, quotes, prices). Option 1: use as
+  sample text (with the demo identities replaced, see 4.1).
+  Option 3: only as an example of the answer you need ("For
+  example: 90% fill rate. What are yours?"). Options 2 and 3:
+  NEVER in the finished document.
+  QUESTIONS — the interview for option 3.
+  TIPS — extra guidance for this template.
+Testimonials and quotes in a finished document (options 2 and 3)
+must be real and approved by the person quoted. Never write or
+"improve" a testimonial beyond light trimming the author has
+approved.
+
+=====================================================================
+TEMPLATE: POST-PLACEMENT ANALYTICS REPORT
+=====================================================================
+DATA RULES
+ Use ONLY the data the client gives. Never estimate or invent numbers.
+ When you calculate percentages, show them with the raw numbers so
+ they can check. Charts: clean, brand colours (shades of the accent +
+ neutrals), labels outside slices with value. Remove slides without
+ data. With option 1 (sample text), use the sample numbers below so
+ the charts look real, and list them all as "replace before use".
+
+SLIDES
+
+ 1 COVER
+   LAYOUT: Dark background with diagonal brand-colour shape on the
+     right, accent bar top-left. Big title left, then "Prepared for:"
+     line and "Role:" line in accent colour, logo bottom-left.
+   PLACEHOLDER: "Post-placement analytics report" · Prepared for:
+     [Client name + logo] · Role: [Role title] · [Date]
+   QUESTIONS: Client, role, date?
+
+ 2 SEARCH OVERVIEW
+   LAYOUT: Light. Title top-left. Three columns with headings and
+     arrows (Outbound → · ← Inbound · Submissions ↓): dark box with 2
+     big numbers, accent box with 1 big number, light-grey box with 2
+     big numbers.
+   PLACEHOLDER: [000] candidates contacted · [000] replies ·
+     [00] applications · [00] screening calls · [00] CVs
+   QUESTIONS: Candidates contacted, replies, inbound applications,
+     screening calls, CVs submitted?
+   SAMPLE TEXT: 232, 116, 85, 41, 12.
+
+ 3–5 DIAGNOSTICS: QUALIFIED / INBOUND / SUBMITTED (one per slide)
+   LAYOUT: Left 40% colour panel (dark / accent / light grey —
+     alternate per slide) with "Diagnostics", subtitle in accent and
+     "→ From [X] …" line. Right: one large pie chart with labels.
+   PLACEHOLDER: "Diagnostics" · [Subtitle] · From [00] [candidates] ·
+     pie with [Category – 00%] labels
+   QUESTIONS: For each: total number and the breakdown (counts or %).
+   REUSABLE COPY (categories):
+     Qualified: Qualified – out of budget · Qualified – interested –
+       wrong time · Qualified – not interested (brand) · Qualified –
+       not interested (role) · Qualified – submitted · Overqualified
+     Inbound: Not qualified · Qualified – out of budget ·
+       Overqualified · Qualified – not interested (brand / role)
+     Submitted: Accepted offer with competitor · Offer rejected –
+       salary · Withdrew – still employed · Rejected – not qualified ·
+       Placed
+   SAMPLE TEXT: see the charts below.
+
+ 6 DIAGNOSTICS: MARKET
+   LAYOUT: Light, accent bar left. Two pies side by side with accent
+     subtitles above and "From [X] qualified candidates" below.
+   PLACEHOLDER: "Candidate current employer" · "Candidate current
+     total compensation" · [Category – 00%]
+   SAMPLE TEXT: GlaxoSmithKline, Amgen, Pfizer; salary bands.
+
+ 7 DIAGNOSTICS: JOB SEARCH ACTIVITY
+   LAYOUT: Light. Title, accent subtitle, "From [X]" line top-left;
+     one pie bottom-right.
+   REUSABLE COPY: Not looking · Actively interviewing · Open to
+     opportunity
+
+ 8 DIAGNOSTICS: EMPLOYER BRAND
+   LAYOUT: Light. Title + subtitle top-left; bar chart right
+     (4 bars, accent colour, light gridlines).
+   REUSABLE COPY: Unaware · Aware – positive · Aware – negative ·
+     Aware – neutral
+
+ 9 KEY INSIGHTS
+   LAYOUT: Light. Title + "From [X] qualified candidates". 2 columns
+     of big dark circles with white % and a one-line insight next to
+     each (5 items).
+   PLACEHOLDER: [00%] [Insight – max 15 words] ×5
+   REUSABLE COPY (patterns): "[X]% knew someone who works or has
+     recently worked at [Company]" · "[X]% had applied to a competitor
+     in the last 6 months" · "[X]% who rejected the role cited
+     [reason] as the primary reason" · "[X]% were earning or seeking
+     to earn more than the role budget" · "[X]% had previously visited
+     [Company]'s careers page or seen any employer brand collateral"
+   SAMPLE TEXT: 12%, 39%, 68%, 54%, 3%.
+
+10 BENCHMARK
+   LAYOUT: Light. Title + "Compared with [X] comparable recent
+     searches". Row of 5 equal accent boxes: big number + 3–4 line
+     explanation.
+   PLACEHOLDER: [0+] [Explanation] ×5
+   REUSABLE COPY (patterns): "Time to hire was [X]+ days longer" ·
+     "Average time to CV feedback was [X]+ days longer" · "Average
+     time to interview feedback was [X]+ days longer" · "The interview
+     process had [X]+ additional steps" · "There were [X]+ additional
+     interview steps before meeting with the Hiring Manager"
+   SAMPLE TEXT: 14 searches, 42+, 3+, 5+, 3+, 2+.
+
+11 RECOMMENDATIONS & ACTION ITEMS
+   LAYOUT: Light. Title. 3 + 2 grid of large check icons (alternating
+     accent / dark) with a 2–3 line action under each.
+   PLACEHOLDER: [Action – max 12 words] ×5
+   REUSABLE COPY (offer, confirm each): "[Company] to evaluate
+     flexible working policy for future roles" · "Schedule 15-minute
+     weekly candidate pipeline review call" · "Embed agency
+     communications in a custom Slack channel" · "[Contact] to present
+     budget feedback to senior leadership" · "Agency to develop custom
+     candidate brand & briefing pack"
+
+12 CONTACT
+   LAYOUT: Dark, title "Contact us", 3 contact rows with line icons,
+     logo bottom-right, accent bar bottom-right.
+   PLACEHOLDER: [Website] · [Phone] · [Email]
+
+FULL SAMPLE TEXT (as in the RecruitHub template, for option 1)
+ Overview: 232 candidates contacted · 116 replies · 85 applications ·
+  41 screening calls · 12 CVs
+ Qualified (from 132): out of budget 29.1% · interested – wrong time
+  20% · not interested (brand) 14.5% · not interested (role) 13.6% ·
+  submitted 10.9% · overqualified 8.2%
+ Inbound (from 85): not qualified 47.2% · out of budget 22.6% ·
+  overqualified 11.3% · not interested (brand) 7.5% · not interested
+  (role) 5.7%
+ Submitted (from 12): accepted competitor offer 4 · offer rejected –
+  salary 4 · withdrew – still employed 2 · rejected – not qualified 1
+  · placed 1
+ Market: employer [Client name A] 53.2% · [B] 25.5% · [C] 12.8% ·
+  other 8.5%; compensation $150k+ 45.9% · $110–130k 32.4% ·
+  $130–150k 10.8% · other 10.8%
+ Activity: not looking 58.1% · actively interviewing 27.9% · open to
+  opportunity 14%
+ Employer brand (%): unaware ~26 · aware positive ~8 · aware
+  negative ~16 · aware neutral ~12
+ Insights: 12% · 68% (flexible working) · 54% · 39% · 3%
+ Benchmark (14 searches): 42+ · 3+ · 5+ · 3+ · 2+
+
+TIPS
+- Purpose: a data-led debrief after a search, to show value and win
+  the next assignment. Neutral, factual tone; no blame.
+- Each diagnostics slide title can carry the takeaway, e.g. "Budget
+  was the main blocker (29%)".
+- Use the same colour for the same category on every chart.
+- If they only have part of the data, offer a shorter report
+  (overview + 2–3 diagnostics + insights + recommendations).
+=====================================================================

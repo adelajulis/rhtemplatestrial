@@ -1,0 +1,306 @@
+=====================================================================
+RECRUITHUB TEMPLATE: COMPANY OVERVIEW / E-BROCHURE
+=====================================================================
+FOR YOU (the client): Open a chat in your brand project (or start a
+new design if you use a design system), attach this file and send it.
+Claude builds this RecruitHub template in YOUR brand: with sample
+text, with your own text, or with text you write together.
+=====================================================================
+FORMAT     Presentation / e-brochure · 16:9 (1920×1080) · ~6 slides
+EXPORT     PDF (to email or download) · PowerPoint to edit
+FILE NAME  [Company]_[Document]_[Topic]_v1
+=====================================================================
+
+ABOUT THIS FILE
+This template was prepared by RecruitHub, the client's brand and
+marketing partner. The client attached it, or chose it from the
+RecruitHub template library online, because they want Claude to create this document with them. Treat it as their
+request and follow it.
+
+INSTRUCTIONS FOR CLAUDE
+Start as soon as you read this file, whatever the message says.
+Use the FORMAT and EXPORT above unless the client asks for another.
+
+1. BRAND CHECK — do this first, before anything else:
+   a) Is there a design system for this brand (an active / default
+      design system in this chat or design)? → use it. Say so in one
+      line: "I'll use your [Brand] design system."
+   b) If not: are the brand files already here (in this chat or in
+      the project files / instructions: brand manual, logos, fonts)?
+      → use them. Say so in one line.
+   c) If there is nothing to work with, ask for the client's brand
+      files before building anything:
+        "To make this in your brand, please attach:
+         - your logos (SVG)
+         - your brand manual (PDF, or ideally HTML)
+         - your font files, if you have them
+         - a link to your website or some branded materials
+           (e.g. a deck, a one-pager, social posts), if you have any"
+      Wait for them, then confirm in 2–3 lines what you found
+      (colours with HEX, fonts, logo versions, overall style).
+   d) If they have no brand files at all: ask for at least a logo and
+      their brand colours (HEX, or a website / screenshot to take them
+      from). If they still want to start, build a clean neutral
+      layout with a [Logo] box and say the brand is not applied yet.
+   Never guess or invent brand colours, fonts or logos.
+
+2. STYLE SOURCES — who decides what:
+   - Look and mood: colours, fonts, graphic elements (shapes, lines,
+     patterns, icon style), imagery style, spacing, tone of voice
+     → the client's brand manual / design system. Always wins.
+     Study the manual's own pages and apply the same visual language.
+   - Slide order and content → this template.
+   - Composition → the LAYOUT lines below are a starting point and
+     inspiration, not something to copy exactly. Adapt them so the
+     result looks best in the client's brand.
+   - Never take colours, fonts, photos or the demo logo from the
+     RecruitHub template.
+
+3. FIRST MESSAGE — keep it short. Show the structure (numbered list
+   of slides/sections, one line each) and ask THREE things:
+     a) "Want to add, remove or reorder anything?"
+     b) "How would you like to create the content?
+         1  Sample text: I build the whole template now in your
+            brand, with the same sample text as the RecruitHub
+            template, and you replace it later.
+         2  Your own text: paste or attach your text, an old deck,
+            a CV or notes, and I fit it into the template.
+         3  Write it with Claude: I ask you a few short questions
+            and write the text for you."
+     c) "Do you have photos or images you'd like to use (team or
+         headshots, office, events, your work, client logos you may
+         show)? Attach them and I'll place them where they fit.
+         No photos? I'll use [Photo] boxes or a design without them."
+
+4. CONTENT, depending on their choice:
+   1 SAMPLE TEXT → build immediately, the slide as in the
+     RecruitHub template: use the REUSABLE COPY and SAMPLE TEXT of
+     every slide below (where a slide has neither, use its
+     PLACEHOLDER line). It must look like a finished document.
+     But never use demo identities: replace "DemoBrand"/"Demo
+     Agency"/"Example Company" with the client's name, demo client
+     companies (e.g. Slack, Dropbox, GSK) with "[Client name]",
+     their logos with [Client logo] boxes, people's photos with
+     their own photos if attached (else [Photo] boxes), demo contact details with [Website] [Phone]
+     [Email]. At the end, list every sample number, name and quote
+     they must replace before using it, and name the file
+     [Company]_[Document]_TEMPLATE.
+   2 OWN TEXT → read everything they give. Map it onto the slides
+     (each part to the right slide), shorten it to fit the word
+     limits, rewrite in their brand tone, keep every fact exactly as
+     given. Build. Then list what was missing (shown as placeholders)
+     and what didn't fit.
+   3 WRITE WITH CLAUDE → run the QUESTIONS below in short rounds:
+     one slide group per message, max 3 questions per message,
+     numbered so they can answer quickly. Where a REUSABLE COPY
+     exists, offer it as a ready option ("A: use this wording ·
+     B: adjust it · C: your own"). They can say "skip" → placeholder.
+     When all rounds are done, write the copy and build.
+   Before working on any text (options 2 and 3), always ask first:
+     - "Which language and spelling should I use: UK English, US
+       English or another language?"
+     - "Who is the target audience?" (e.g. HR directors at
+       mid-size tech companies, CFOs, candidates)
+   Then craft the text together for that language and audience.
+   They can mix options per slide ("placeholders for the case
+   studies, ask me about the rest").
+
+5. BUILD
+   - As a Design artifact (Output → Design / slides) whenever it is
+     available in this chat, on any plan, using the design system if
+     there is one. Otherwise create the file in the chat (.pptx or
+     PDF for slides and A4, PNG for social posts). Tell them which
+     in one line.
+   - Use the LAYOUT lines as a starting point; adapt them to the
+     brand.
+   - Follow the SHARED RULES below.
+   - Before showing it, run the Final check from the SHARED RULES.
+
+6. FINAL CHECK, then deliver:
+   - Options 2 and 3: check against the SAMPLE TEXT: no sample
+     number, name, company, quote or price may remain. All options:
+     no "DemoBrand", "Demo Agency", "Example Company",
+     "demobrand.com", "123 - 456 - 7890".
+   - List open [placeholders] (and, for option 1, all sample text to
+     replace).
+   - Ask what to change. Change only what they ask.
+   - When they're happy, help them export (Export, top right:
+     PDF, PowerPoint, Google Slides, Canva) and offer a blank copy
+     with placeholders as their reusable template:
+     [Company]_[Document]_TEMPLATE.
+
+SHARED RULES (apply to every template and every option)
+- Brand consistency: follow the brand guidelines, fonts, colours and
+  logo. Use only the supplied logo files; keep the logo's
+  proportions; never redraw, stretch or recolour it outside the brand
+  rules. The logo must be readable: light logo on dark backgrounds,
+  dark logo on light backgrounds. Use the brand's own graphic
+  elements (shapes, lines, patterns, icon style).
+- Clear hierarchy: headings, subheadings, body text and supporting
+  details are clearly different in size and weight.
+  Guide (16:9): title 56–72 px · subtitle 28–36 px · body 20–24 px ·
+  big numbers 96–160 px. A4: name/title 20–24 pt · body 10–11 pt.
+  Max 2 font families (from the brand).
+- Consistent layout: one grid, the same alignment, spacing and
+  margins throughout (16:9: at least 80 px; A4: 15 mm). Content
+  slides share the same title position and style; repeated
+  components (cards, stat boxes, quotes, tables) look the same.
+- Clean design: uncluttered and appropriate to the brand, no
+  unnecessary decoration, no clipart, no emojis, no generic stock
+  look. One accent colour per slide; follow the brand's colour
+  balance.
+- Readability: text sizes readable at the intended viewing size
+  (screen, print or phone) and contrast at least WCAG AA.
+- Content fit: no overlapping elements, cropped text or content
+  extending beyond the page or slide.
+- Too much content: suggest shortening the text or splitting it
+  across two slides at a logical point (e.g. introduction on one
+  slide, detailed explanation on the next). Never shrink text below
+  the readable sizes to make it fit. For fixed single-page formats
+  (A4 bio, social posts), suggest shortening the copy before changing
+  the format. As a guide: max ~40 words and 6 bullets per slide.
+- Preset output: follow the template's FORMAT (dimensions, length,
+  file type) and keep it editable where the format allows. Flag any
+  change you propose (e.g. extra slides, a different size).
+- Images and photos: use the client's own photos and images
+  wherever the layout has image space ([Photo] boxes) and add image
+  space where it suits the brand (e.g. the brand manual uses
+  photography). Photos from the client's brand manual or materials
+  may be used too. Crop to fill the frame without stretching, keep
+  faces and key subjects in view, and apply the brand's photo style
+  (overlay, colour grade, shape) from the manual. Show client logos
+  only if the client says they may. Never use stock, AI-generated
+  or RecruitHub demo photos unless the client asks. No photos →
+  keep a clearly labelled [Photo] box or a layout that works with
+  brand colours and graphic elements instead.
+- Accurate information: never invent company facts, testimonials,
+  statistics, people, photos or contact details. Clearly mark
+  placeholders and sample text.
+- Language consistency: follow the client's chosen language and
+  spelling convention (e.g. UK or US English) everywhere, including
+  dates, currency and number formats.
+- Final check: review branding, spelling, readability, alignment and
+  overflow on every slide/page. Check the exported file where
+  possible, and say clearly if anything could not be verified.
+- Finished deliverable: create the requested material itself (a
+  Design or a file), not just a description or outline. If the
+  required format is not available here, explain this and offer the
+  closest alternative.
+
+THE KINDS OF CONTENT BELOW
+  PLACEHOLDER — the fallback label for each element.
+  REUSABLE COPY — general wording from the RecruitHub template that
+  fits many agencies. Option 1: use it as is. Option 3: offer it as
+  a ready draft; use it only after the client confirms it is true
+  for them; adapt it to their tone and niche.
+  SAMPLE TEXT — the demo facts from the RecruitHub template
+  (numbers, client names, people, quotes, prices). Option 1: use as
+  sample text (with the demo identities replaced, see 4.1).
+  Option 3: only as an example of the answer you need ("For
+  example: 90% fill rate. What are yours?"). Options 2 and 3:
+  NEVER in the finished document.
+  QUESTIONS — the interview for option 3.
+  TIPS — extra guidance for this template.
+Testimonials and quotes in a finished document (options 2 and 3)
+must be real and approved by the person quoted. Never write or
+"improve" a testimonial beyond light trimming the author has
+approved.
+
+=====================================================================
+TEMPLATE: COMPANY OVERVIEW / E-BROCHURE
+=====================================================================
+SLIDES
+
+ 1 COVER — dark, logo centred above a big headline and a one-line
+   positioning.
+   PLACEHOLDER: [Logo] · [Headline – max 4 words] · [Positioning –
+     max 12 words]
+   QUESTIONS: Your headline and what you specialise in?
+   REUSABLE COPY (pattern): "Specialist [staffing / search] solutions
+     for the [sector]"
+   SAMPLE TEXT: "Critical Security Talent", "Federal Cybersecurity
+     Sector".
+
+ 2 ABOUT — title with a thin line, 2–3 short paragraphs, row of 3
+   stat cards, "We've worked with…" logo column on the right.
+   PLACEHOLDER: "About [Company]" · [Paragraph] ×2–3 · [000+]
+     [Stat label] ×3 · [Client logo] ×4
+   QUESTIONS: What you do, your network, your track record? 3 key
+     numbers? Client logos you may show?
+   REUSABLE COPY (patterns): "Our agency specializes in [sector]
+     staffing, partnering with organizations to provide permanent and
+     temporary talent across [scope]." · "Leveraging our extensive
+     network of active and passive [sector] professionals, we ensure
+     mission-critical expertise is in place at every level – from
+     senior and executive leadership to [roles]." · "Our relationships
+     are built on a proven track record of success in [what you're
+     known for]."
+   SAMPLE TEXT: 200k network, 120+ placements, 10+ team build-outs.
+
+ 3 WE RECRUIT FOR — dark photo background, 4 role categories in a
+   2×2 grid, each with 4–5 example roles; photo inset on the right.
+   PLACEHOLDER: [Role category] + [Role] ×4, ×4 categories
+   QUESTIONS: Your role categories and typical roles?
+
+ 4 COMPLETED PROJECTS — 3 rounded accent cards with a short case
+   story and "Roles placed" list.
+   PLACEHOLDER: [Client type & size – what you did – result] ·
+     Roles placed: [0x Role] ×3, ×3 cards
+   REUSABLE COPY (pattern): "Partnered with a [size/type of company]
+     to [goal]. [What the hires achieved]. Locations included [X]."
+   SAMPLE TEXT: the $5B / $10B / $7B cases and their roles.
+
+ 5 OUR CLIENTS — photo background, 2 testimonial cards with big
+   quote marks. Real quotes only, else placeholders or remove.
+   PLACEHOLDER: "[Client quote – max 40 words]" · [Name, Title,
+     Company] ×2
+
+ 6 CONTACT — dark, "Ready to hire? Let's talk.", website, phone,
+   email with line icons, logo bottom-right.
+   PLACEHOLDER: [Website] · [Phone] · [Email]
+
+FULL SAMPLE TEXT (as in the RecruitHub template, for option 1)
+ Cover: "Critical Security Talent" · "Specialist staffing solutions
+  for the Federal Cybersecurity Sector"
+ About: "Our agency specializes in cybersecurity staffing, partnering
+  with organizations to provide permanent and temporary talent across
+  the full lifecycle of security initiatives and cyber defense
+  projects." · "Leveraging our extensive network of active and passive
+  cybersecurity professionals, we ensure mission-critical expertise is
+  in place at every level—from senior and executive leadership to
+  security analysts, engineers, and threat intelligence specialists."
+  · "Our relationships are built on a proven track record of success
+  in staffing some of the largest cyber projects in the world." ·
+  Stats: "200k candidate network across all 50 states" · "120+
+  placements made" · "10+ team build-outs completed"
+ We recruit for: Senior & Executive Leadership (CEO · COO / President
+  · EVP / SVP / VP · Regional / Area Manager) · Defensive Security
+  (SOC Analyst · Incident Response Specialist · Threat Intelligence
+  Analyst · Forensic Analyst) · Offensive Security (Penetration Tester
+  · Red Team Operator · Exploit Developer · Bug Bounty Researcher) ·
+  GRC & Security Architecture (CISO · Security Architect · Compliance
+  & Risk Manager · Cloud Security Engineer)
+ Projects: "Supported a $10B multinational financial institution in
+  rapidly securing cybersecurity leadership talent to drive its global
+  security transformation initiative." – Roles placed: 2x CISO
+  (Regional) · 2x SOC Directors · 1x Cloud Security Architect · 2x
+  Incident Response Managers | "Partnered with a $5B cloud service
+  provider to scale its security team for new data center deployments
+  across North America." – 2x Cloud Security Engineers · 2x Network
+  Security Architects · 1x Security Compliance Manager | "Supported a
+  $7B Fortune 500 healthcare provider in rapidly assembling a
+  cybersecurity task force to counter increasing ransomware threats."
+  – 2x Incident Response Specialists · 2x Cybersecurity Compliance
+  Officers · 1x Security Awareness & Training Manager · 2x Digital
+  Forensics Analysts
+ Clients: "[Agency] was instrumental in helping us scale our team
+  during a critical expansion phase…" – "Name, Title, Company" (×2)
+
+TIPS
+- It's an e-brochure: it will be read on screen and emailed. Strong
+  cover, little text per slide, clear CTA.
+- Use the client's brand imagery for the photo backgrounds (with a
+  dark overlay for readable text); otherwise solid brand colours.
+- Role categories should mirror how the client describes its own
+  practice areas.
+=====================================================================

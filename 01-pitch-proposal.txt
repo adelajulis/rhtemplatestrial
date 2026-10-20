@@ -1,0 +1,401 @@
+=====================================================================
+RECRUITHUB TEMPLATE: PITCH / PROPOSAL
+=====================================================================
+FOR YOU (the client): Open a chat in your brand project (or start a
+new design if you use a design system), attach this file and send it.
+Claude builds this RecruitHub template in YOUR brand: with sample
+text, with your own text, or with text you write together.
+=====================================================================
+FORMAT     Presentation · 16:9 (1920×1080) · 12 slides
+EXPORT     PDF to send · PowerPoint (.pptx) to edit
+FILE NAME  [Company]_[Document]_[Topic]_v1
+=====================================================================
+
+ABOUT THIS FILE
+This template was prepared by RecruitHub, the client's brand and
+marketing partner. The client attached it, or chose it from the
+RecruitHub template library online, because they want Claude to create this document with them. Treat it as their
+request and follow it.
+
+INSTRUCTIONS FOR CLAUDE
+Start as soon as you read this file, whatever the message says.
+Use the FORMAT and EXPORT above unless the client asks for another.
+
+1. BRAND CHECK — do this first, before anything else:
+   a) Is there a design system for this brand (an active / default
+      design system in this chat or design)? → use it. Say so in one
+      line: "I'll use your [Brand] design system."
+   b) If not: are the brand files already here (in this chat or in
+      the project files / instructions: brand manual, logos, fonts)?
+      → use them. Say so in one line.
+   c) If there is nothing to work with, ask for the client's brand
+      files before building anything:
+        "To make this in your brand, please attach:
+         - your logos (SVG)
+         - your brand manual (PDF, or ideally HTML)
+         - your font files, if you have them
+         - a link to your website or some branded materials
+           (e.g. a deck, a one-pager, social posts), if you have any"
+      Wait for them, then confirm in 2–3 lines what you found
+      (colours with HEX, fonts, logo versions, overall style).
+   d) If they have no brand files at all: ask for at least a logo and
+      their brand colours (HEX, or a website / screenshot to take them
+      from). If they still want to start, build a clean neutral
+      layout with a [Logo] box and say the brand is not applied yet.
+   Never guess or invent brand colours, fonts or logos.
+
+2. STYLE SOURCES — who decides what:
+   - Look and mood: colours, fonts, graphic elements (shapes, lines,
+     patterns, icon style), imagery style, spacing, tone of voice
+     → the client's brand manual / design system. Always wins.
+     Study the manual's own pages and apply the same visual language.
+   - Slide order and content → this template.
+   - Composition → the LAYOUT lines below are a starting point and
+     inspiration, not something to copy exactly. Adapt them so the
+     result looks best in the client's brand.
+   - Never take colours, fonts, photos or the demo logo from the
+     RecruitHub template.
+
+3. FIRST MESSAGE — keep it short. Show the structure (numbered list
+   of slides/sections, one line each) and ask THREE things:
+     a) "Want to add, remove or reorder anything?"
+     b) "How would you like to create the content?
+         1  Sample text: I build the whole template now in your
+            brand, with the same sample text as the RecruitHub
+            template, and you replace it later.
+         2  Your own text: paste or attach your text, an old deck,
+            a CV or notes, and I fit it into the template.
+         3  Write it with Claude: I ask you a few short questions
+            and write the text for you."
+     c) "Do you have photos or images you'd like to use (team or
+         headshots, office, events, your work, client logos you may
+         show)? Attach them and I'll place them where they fit.
+         No photos? I'll use [Photo] boxes or a design without them."
+
+4. CONTENT, depending on their choice:
+   1 SAMPLE TEXT → build immediately, the slide as in the
+     RecruitHub template: use the REUSABLE COPY and SAMPLE TEXT of
+     every slide below (where a slide has neither, use its
+     PLACEHOLDER line). It must look like a finished document.
+     But never use demo identities: replace "DemoBrand"/"Demo
+     Agency"/"Example Company" with the client's name, demo client
+     companies (e.g. Slack, Dropbox, GSK) with "[Client name]",
+     their logos with [Client logo] boxes, people's photos with
+     their own photos if attached (else [Photo] boxes), demo contact details with [Website] [Phone]
+     [Email]. At the end, list every sample number, name and quote
+     they must replace before using it, and name the file
+     [Company]_[Document]_TEMPLATE.
+   2 OWN TEXT → read everything they give. Map it onto the slides
+     (each part to the right slide), shorten it to fit the word
+     limits, rewrite in their brand tone, keep every fact exactly as
+     given. Build. Then list what was missing (shown as placeholders)
+     and what didn't fit.
+   3 WRITE WITH CLAUDE → run the QUESTIONS below in short rounds:
+     one slide group per message, max 3 questions per message,
+     numbered so they can answer quickly. Where a REUSABLE COPY
+     exists, offer it as a ready option ("A: use this wording ·
+     B: adjust it · C: your own"). They can say "skip" → placeholder.
+     When all rounds are done, write the copy and build.
+   Before working on any text (options 2 and 3), always ask first:
+     - "Which language and spelling should I use: UK English, US
+       English or another language?"
+     - "Who is the target audience?" (e.g. HR directors at
+       mid-size tech companies, CFOs, candidates)
+   Then craft the text together for that language and audience.
+   They can mix options per slide ("placeholders for the case
+   studies, ask me about the rest").
+
+5. BUILD
+   - As a Design artifact (Output → Design / slides) whenever it is
+     available in this chat, on any plan, using the design system if
+     there is one. Otherwise create the file in the chat (.pptx or
+     PDF for slides and A4, PNG for social posts). Tell them which
+     in one line.
+   - Use the LAYOUT lines as a starting point; adapt them to the
+     brand.
+   - Follow the SHARED RULES below.
+   - Before showing it, run the Final check from the SHARED RULES.
+
+6. FINAL CHECK, then deliver:
+   - Options 2 and 3: check against the SAMPLE TEXT: no sample
+     number, name, company, quote or price may remain. All options:
+     no "DemoBrand", "Demo Agency", "Example Company",
+     "demobrand.com", "123 - 456 - 7890".
+   - List open [placeholders] (and, for option 1, all sample text to
+     replace).
+   - Ask what to change. Change only what they ask.
+   - When they're happy, help them export (Export, top right:
+     PDF, PowerPoint, Google Slides, Canva) and offer a blank copy
+     with placeholders as their reusable template:
+     [Company]_[Document]_TEMPLATE.
+
+SHARED RULES (apply to every template and every option)
+- Brand consistency: follow the brand guidelines, fonts, colours and
+  logo. Use only the supplied logo files; keep the logo's
+  proportions; never redraw, stretch or recolour it outside the brand
+  rules. The logo must be readable: light logo on dark backgrounds,
+  dark logo on light backgrounds. Use the brand's own graphic
+  elements (shapes, lines, patterns, icon style).
+- Clear hierarchy: headings, subheadings, body text and supporting
+  details are clearly different in size and weight.
+  Guide (16:9): title 56–72 px · subtitle 28–36 px · body 20–24 px ·
+  big numbers 96–160 px. A4: name/title 20–24 pt · body 10–11 pt.
+  Max 2 font families (from the brand).
+- Consistent layout: one grid, the same alignment, spacing and
+  margins throughout (16:9: at least 80 px; A4: 15 mm). Content
+  slides share the same title position and style; repeated
+  components (cards, stat boxes, quotes, tables) look the same.
+- Clean design: uncluttered and appropriate to the brand, no
+  unnecessary decoration, no clipart, no emojis, no generic stock
+  look. One accent colour per slide; follow the brand's colour
+  balance.
+- Readability: text sizes readable at the intended viewing size
+  (screen, print or phone) and contrast at least WCAG AA.
+- Content fit: no overlapping elements, cropped text or content
+  extending beyond the page or slide.
+- Too much content: suggest shortening the text or splitting it
+  across two slides at a logical point (e.g. introduction on one
+  slide, detailed explanation on the next). Never shrink text below
+  the readable sizes to make it fit. For fixed single-page formats
+  (A4 bio, social posts), suggest shortening the copy before changing
+  the format. As a guide: max ~40 words and 6 bullets per slide.
+- Preset output: follow the template's FORMAT (dimensions, length,
+  file type) and keep it editable where the format allows. Flag any
+  change you propose (e.g. extra slides, a different size).
+- Images and photos: use the client's own photos and images
+  wherever the layout has image space ([Photo] boxes) and add image
+  space where it suits the brand (e.g. the brand manual uses
+  photography). Photos from the client's brand manual or materials
+  may be used too. Crop to fill the frame without stretching, keep
+  faces and key subjects in view, and apply the brand's photo style
+  (overlay, colour grade, shape) from the manual. Show client logos
+  only if the client says they may. Never use stock, AI-generated
+  or RecruitHub demo photos unless the client asks. No photos →
+  keep a clearly labelled [Photo] box or a layout that works with
+  brand colours and graphic elements instead.
+- Accurate information: never invent company facts, testimonials,
+  statistics, people, photos or contact details. Clearly mark
+  placeholders and sample text.
+- Language consistency: follow the client's chosen language and
+  spelling convention (e.g. UK or US English) everywhere, including
+  dates, currency and number formats.
+- Final check: review branding, spelling, readability, alignment and
+  overflow on every slide/page. Check the exported file where
+  possible, and say clearly if anything could not be verified.
+- Finished deliverable: create the requested material itself (a
+  Design or a file), not just a description or outline. If the
+  required format is not available here, explain this and offer the
+  closest alternative.
+
+THE KINDS OF CONTENT BELOW
+  PLACEHOLDER — the fallback label for each element.
+  REUSABLE COPY — general wording from the RecruitHub template that
+  fits many agencies. Option 1: use it as is. Option 3: offer it as
+  a ready draft; use it only after the client confirms it is true
+  for them; adapt it to their tone and niche.
+  SAMPLE TEXT — the demo facts from the RecruitHub template
+  (numbers, client names, people, quotes, prices). Option 1: use as
+  sample text (with the demo identities replaced, see 4.1).
+  Option 3: only as an example of the answer you need ("For
+  example: 90% fill rate. What are yours?"). Options 2 and 3:
+  NEVER in the finished document.
+  QUESTIONS — the interview for option 3.
+  TIPS — extra guidance for this template.
+Testimonials and quotes in a finished document (options 2 and 3)
+must be real and approved by the person quoted. Never write or
+"improve" a testimonial beyond light trimming the author has
+approved.
+
+=====================================================================
+TEMPLATE: PITCH / PROPOSAL
+=====================================================================
+SLIDES
+
+ 1 COVER
+   LAYOUT: Dark brand background with a subtle brand pattern. Centred
+     lockup: agency logo · "×" · prospect logo. Thin accent bar along
+     the bottom edge (left half).
+   PLACEHOLDER: [Your logo] × [Prospect logo]
+   QUESTIONS: Prospect company name? Do you have their logo (attach)?
+   SAMPLE TEXT: "DemoBrand × healthtechX".
+
+ 2 INTRODUCTION
+   LAYOUT: Light background, title top-left, thin accent bar on the
+     left edge. Left 55%: 5–6 proof points with check icons. Right:
+     large circular founder photo with accent ring, name and title
+     centred below.
+   PLACEHOLDER: "Introduction" · [Proof point – one line] ×6 ·
+     [Photo] · [Name Surname] · [Job title]
+   QUESTIONS: Your name and title (photo)? Years in your niche and
+     placements made? Network size, niche focus, markets, typical
+     clients?
+   SAMPLE TEXT: "10+ years cyber recruitment · 350+ cyber placements
+     · 10,000+ LinkedIn connections · Focused on IAM niche · 80% of
+     placements UK, 20% EUR".
+
+ 3 TYPICAL CLIENT PROFILE
+   LAYOUT: Split slide. Left (light): title + grid of 6 client logos
+     (2×3). Right (dark panel, ~45% width): bullet list of pains, then
+     bold "Looking to:" with 2 sub-points.
+   PLACEHOLDER: "Typical client profile" · [Client logo] ×6 ·
+     [Company type – size] · [Pain point] ×3 · Looking to: [Goal] ×2
+   QUESTIONS: Who is your ideal client (type, size)? Their 3 main
+     hiring problems? What do they want to achieve? Client logos you
+     may show?
+   REUSABLE COPY: "Limited employer brand reach / awareness" ·
+     "Limited recruitment resources / bandwidth" · "Protracted hiring
+     cycles" · Looking to: "Attract high-quality candidates ahead of
+     the competition" · "Reduce time spent on the recruitment process"
+   SAMPLE TEXT: "Cyber consultancy – 50–250 FTEs", "3 months+".
+
+ 4 OUR SOLUTION
+   LAYOUT: Light. Title top-left. Left half: 2×2 value points, each
+     with a round dark icon. Below: row of 3 stat boxes (accent fill /
+     dark fill / light grey) with big number + label. Right half:
+     candidate-market funnel graphic (inverted triangle in accent
+     colour with levels: not looking → passive → exploring → actively
+     seeking → unemployed; side labels "volume", "activity",
+     "frustration", "job boards / CV search").
+   PLACEHOLDER: "Our solution" · [Value point – max 10 words] ×4 ·
+     [00%] [Fill rate] · [00%] [Retention rate] · [0 weeks]
+     [Average time to hire]
+   QUESTIONS: What makes your service different (pick or adjust the
+     4 points)? Your real fill rate, retention after 12 months and
+     average time to hire? Keep the funnel graphic?
+   REUSABLE COPY: "Access to exclusive, vetted, high-quality talent –
+     fast" · "Huge proprietary network (CRM & social media connections
+     / followers)" · "Expert knowledge of the market" · "Expert
+     knowledge of pitching/selling roles – engaging hard-to-reach
+     candidates" · the funnel graphic and its labels.
+   SAMPLE TEXT: 90% fill rate, 95% retention, 6 week hire time.
+
+ 5–6 CASE STUDIES (one per slide; slide 5 light panel, slide 6 dark)
+   LAYOUT: Left 40% (light): title "Case study" + large client logo.
+     Right 60%: full-height panel (accent colour on slide 5, dark on
+     slide 6) with client name in bold, then bullets: the need,
+     challenges (sub-bullets), result.
+   PLACEHOLDER: "Case study" · [Client logo] · [Client name] ·
+     [What they needed] · [Challenge] ×3 · [Candidates presented] ·
+     [Result + timeframe]
+   QUESTIONS (per case): Client (named or anonymised)? Roles and
+     location? Challenges? Candidates presented, offers accepted, in
+     how many weeks?
+   REUSABLE COPY: "Role open [X] months+" · "Difficult/remote
+     location" · "Limited employer brand awareness" · "Limited
+     recruitment resources"
+   SAMPLE TEXT: Slack (2 Senior IAM Engineers, London, 4 candidates,
+     2 offers in 5 weeks); Dropbox (Senior IAM Engineer, Dubai, 3
+     candidates, 1 offer in 3 weeks).
+
+ 7 ENGAGEMENT STRUCTURE
+   LAYOUT: Light. Left 55%: title + benefit bullets. Right: vertical
+     timeline of 7 steps — a thin vertical line with dots, each step a
+     rounded accent-colour pill with number, step name and a line
+     icon.
+   PLACEHOLDER: "Engagement structure" · [Benefit] ×6–8 ·
+     01 [Step] … 07 [Step]
+   QUESTIONS: Your search model (exclusive / retained / contingent)?
+     Which benefits apply? Your process steps (use the 7 below)?
+   REUSABLE COPY: "We work on an exclusive search model" · "Allows us
+     to make you our highest priority" · "In-depth candidate vetting
+     process" · "Clarity and consistency of your brand" · "100% of
+     candidates exclusive to you" · "Guaranteed completion" · "Fully
+     refundable up-front engagement fee, deducted from the final fee
+     (no extra costs)" · "Same cost as contingent recruitment" ·
+     "Extended post-placement protection" · Steps: 01 Qualify role ·
+     02 Agree candidate briefing · 03 Research phase · 04 Shortlist
+     agreement · 05 Interviews · 06 Offer management · 07 Onboarding
+
+ 8 PRICING
+   LAYOUT: Light. Title top-left. Two equal square blocks side by
+     side (accent fill + dark fill), each with a huge percentage, bold
+     label and one-line note. Short italic terms text under each.
+   PLACEHOLDER: "Pricing" · [00%] [Search deposit] [When paid] ·
+     [00%] [Completion fee] [When paid] · [Refund / guarantee terms]
+   QUESTIONS: Your fee model and percentages? Guarantee period?
+     Refund terms?
+   REUSABLE COPY: "All deposits are 100% refundable and protected by
+     our contract SLA." · "Placements are secured by a robust [X]-day
+     guarantee, offering replacement candidates or fee rebates." ·
+     "Paid on commencement of assignment" · "Paid on candidate
+     acceptance"
+   SAMPLE TEXT: 20% / 80%, 90-day guarantee.
+
+ 9 CLIENT FEEDBACK (short)
+   LAYOUT: Left 30% light with title. Right 70%: three full-width
+     horizontal bands (dark / accent / light grey), each with a
+     circular photo, big quote mark, quote, name + company.
+   PLACEHOLDER: [Photo] · "[Client quote – max 35 words]" ·
+     [Name, Title, Company] ×3
+   QUESTIONS: Do you have real client quotes with permission? Paste
+     them. Otherwise keep placeholders or remove the slide.
+
+10 CLIENT FEEDBACK (long)
+   LAYOUT: Same three bands without photos: bold "Testimonial" title,
+     longer text, name right-aligned.
+   PLACEHOLDER: [Testimonial title] · [Testimonial – max 60 words] ·
+     [Name, Title, Company] ×3
+   (Remove if they have no long testimonials.)
+
+11 SUMMARY
+   LAYOUT: Light. Title top-left. 2 columns × 3 rows: round accent
+     icon + bold one-line benefit.
+   PLACEHOLDER: "Summary" · [Benefit – max 6 words] ×6
+   QUESTIONS: Confirm the 6 points (draft them from slides 4, 7, 8).
+   REUSABLE COPY: "Robust, best practice search" · "Guaranteed
+     completion" · "Exclusive candidates" · "Fully refundable
+     engagement fee, deducted from completion fee" · "Same cost as
+     contingent"
+   SAMPLE TEXT: "6 weeks average time-to-hire".
+
+12 CONTACT
+   LAYOUT: Dark background, thin line top, big CTA headline top-left,
+     3 contact rows with line icons (website, phone, email), logo
+     bottom-right, accent bar bottom-right.
+   PLACEHOLDER: [CTA headline] · [Website] · [Phone] · [Email]
+   QUESTIONS: Website, phone, email? CTA wording?
+   REUSABLE COPY: "Ready to hire? Let's talk."
+   SAMPLE TEXT: www.demobrand.com, 123 - 456 - 7890,
+     hello@demobrand.com.
+
+FULL SAMPLE TEXT (as in the RecruitHub template, for option 1)
+ 2 Introduction: "Name Surname" · "Founder" · "10+ years cyber
+   recruitment" · "350+ cyber placements" · "10,000+ LinkedIn
+   connections and followers in cyber sector" · "Focused on IAM
+   niche" · "80% of placements UK, 20% EUR" · "Clients include
+   generalist IT and specialist cyber consultancies"
+ 3 Profile: "Cyber consultancy – 50–250 FTEs" · "Limited employer
+   brand reach / awareness" · "Limited recruitment resources /
+   bandwidth" · "Protracted hiring cycles of 3 months+" · Looking to:
+   "Attract high-quality candidates from/ahead of competition" ·
+   "Reduce time spent on recruitment process"
+ 5 Case study: "[Client name]" · "Required x2 Senior IAM Engineers
+   for a new team in London" · "Role open 6+ months" ·
+   "Difficult/remote location" · "Limited employer brand awareness" ·
+   "Limited recruitment resources (despite large TA team)" · "4
+   candidates presented and interviewed" · "2 offers made and
+   accepted within 5 weeks of engagement"
+ 6 Case study: "[Client name]" · "Required a Senior IAM Engineer" ·
+   "Role open 3+ months" · "Difficult/remote location (Dubai)" ·
+   "Limited employer brand awareness" · "Limited recruitment
+   resources" · "3 candidates presented and interviewed" · "1 offer
+   made and accepted within 3 weeks of engagement"
+ 9 Feedback (short) ×3: "A short quote from a client about working
+   with us – what we helped with and the result." · "Name Surname,
+   Company"
+10 Feedback (long) ×3: "Testimonial" · "A testimonial is a short
+   quote or personal anecdote from a client that describes the
+   positive experience they've had with your company." · "Name,
+   Surname, Company"
+
+TIPS
+- Tailor every pitch to the prospect: their sector, size and hiring
+  pains on slide 3; case studies from a similar sector on 5–6.
+- Keep the numbers consistent: the stats on slide 4 and the summary
+  on slide 11 must match.
+- Remove slides they don't need rather than leaving them half empty
+  (e.g. no testimonials yet → drop 9–10).
+- Slide 7: if they work contingent or retained instead of exclusive,
+  rewrite the benefits accordingly; don't keep "exclusive" claims.
+- Slide 8: show the fee structure clearly; avoid long legal text.
+=====================================================================
