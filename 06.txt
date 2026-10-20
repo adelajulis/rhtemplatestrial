@@ -1,0 +1,378 @@
+=====================================================================
+RECRUITHUB TEMPLATE: SEARCH PROGRESS REPORT
+=====================================================================
+FOR YOU (the client): Open a chat in your brand project (or start a
+new design if you use a design system), attach this file and send it.
+Claude builds this RecruitHub template in YOUR brand: with sample
+text, with your own text, or with text you write together.
+=====================================================================
+FORMAT     Presentation · 16:9 (1920×1080) · 6 slides, with tables
+EXPORT     PDF to send · PowerPoint (.pptx) to edit
+FILE NAME  [Company]_[Document]_[Topic]_v1
+=====================================================================
+
+ABOUT THIS FILE
+This template was prepared by RecruitHub, the client's brand and
+marketing partner. The client attached it, or chose it from the
+RecruitHub template library online, because they want Claude to create this document with them. Treat it as their
+request and follow it.
+
+INSTRUCTIONS FOR CLAUDE
+Start as soon as you read this file, whatever the message says.
+Use the FORMAT and EXPORT above unless the client asks for another.
+
+1. BRAND CHECK — do this first, before anything else:
+   a) Is there a design system for this brand (an active / default
+      design system in this chat or design)? → use it. Say so in one
+      line: "I'll use your [Brand] design system."
+   b) If not: are the brand files already here (in this chat or in
+      the project files / instructions: brand manual, logos, fonts)?
+      → use them. Say so in one line.
+   c) If there is nothing to work with, ask for the client's brand
+      files before building anything:
+        "To make this in your brand, please attach:
+         - your logos (SVG)
+         - your brand manual (PDF, or ideally HTML)
+         - your font files, if you have them
+         - a link to your website or some branded materials
+           (e.g. a deck, a one-pager, social posts), if you have any"
+      Wait for them, then confirm in 2–3 lines what you found
+      (colours with HEX, fonts, logo versions, overall style).
+   d) If they have no brand files at all: ask for at least a logo and
+      their brand colours (HEX, or a website / screenshot to take them
+      from). If they still want to start, build a clean neutral
+      layout with a [Logo] box and say the brand is not applied yet.
+   Never guess or invent brand colours, fonts or logos.
+
+2. STYLE SOURCES — who decides what:
+   - Look and mood: colours, fonts, graphic elements (shapes, lines,
+     patterns, icon style), imagery style, spacing, tone of voice
+     → the client's brand manual / design system. Always wins.
+     Study the manual's own pages and apply the same visual language.
+   - Slide order and content → this template.
+   - Composition → the LAYOUT lines below are a starting point and
+     inspiration, not something to copy exactly. Adapt them so the
+     result looks best in the client's brand.
+   - Never take colours, fonts, photos or the demo logo from the
+     RecruitHub template.
+
+3. FIRST MESSAGE — keep it short. Show the structure (numbered list
+   of slides/sections, one line each) and ask THREE things:
+     a) "Want to add, remove or reorder anything?"
+     b) "How would you like to create the content?
+         1  Sample text: I build the whole template now in your
+            brand, with the same sample text as the RecruitHub
+            template, and you replace it later.
+         2  Your own text: paste or attach your text, an old deck,
+            a CV or notes, and I fit it into the template.
+         3  Write it with Claude: I ask you a few short questions
+            and write the text for you."
+     c) "Do you have photos or images you'd like to use (team or
+         headshots, office, events, your work, client logos you may
+         show)? Attach them and I'll place them where they fit.
+         No photos? I'll use [Photo] boxes or a design without them."
+
+4. CONTENT, depending on their choice:
+   1 SAMPLE TEXT → build immediately, the slide as in the
+     RecruitHub template: use the REUSABLE COPY and SAMPLE TEXT of
+     every slide below (where a slide has neither, use its
+     PLACEHOLDER line). It must look like a finished document.
+     But never use demo identities: replace "DemoBrand"/"Demo
+     Agency"/"Example Company" with the client's name, demo client
+     companies (e.g. Slack, Dropbox, GSK) with "[Client name]",
+     their logos with [Client logo] boxes, people's photos with
+     their own photos if attached (else [Photo] boxes), demo contact details with [Website] [Phone]
+     [Email]. At the end, list every sample number, name and quote
+     they must replace before using it, and name the file
+     [Company]_[Document]_TEMPLATE.
+   2 OWN TEXT → read everything they give. Map it onto the slides
+     (each part to the right slide), shorten it to fit the word
+     limits, rewrite in their brand tone, keep every fact exactly as
+     given. Build. Then list what was missing (shown as placeholders)
+     and what didn't fit.
+   3 WRITE WITH CLAUDE → run the QUESTIONS below in short rounds:
+     one slide group per message, max 3 questions per message,
+     numbered so they can answer quickly. Where a REUSABLE COPY
+     exists, offer it as a ready option ("A: use this wording ·
+     B: adjust it · C: your own"). They can say "skip" → placeholder.
+     When all rounds are done, write the copy and build.
+   Before working on any text (options 2 and 3), always ask first:
+     - "Which language and spelling should I use: UK English, US
+       English or another language?"
+     - "Who is the target audience?" (e.g. HR directors at
+       mid-size tech companies, CFOs, candidates)
+   Then craft the text together for that language and audience.
+   They can mix options per slide ("placeholders for the case
+   studies, ask me about the rest").
+
+5. BUILD
+   - As a Design artifact (Output → Design / slides) whenever it is
+     available in this chat, on any plan, using the design system if
+     there is one. Otherwise create the file in the chat (.pptx or
+     PDF for slides and A4, PNG for social posts). Tell them which
+     in one line.
+   - Use the LAYOUT lines as a starting point; adapt them to the
+     brand.
+   - Follow the SHARED RULES below.
+   - Before showing it, run the Final check from the SHARED RULES.
+
+6. FINAL CHECK, then deliver:
+   - Options 2 and 3: check against the SAMPLE TEXT: no sample
+     number, name, company, quote or price may remain. All options:
+     no "DemoBrand", "Demo Agency", "Example Company",
+     "demobrand.com", "123 - 456 - 7890".
+   - List open [placeholders] (and, for option 1, all sample text to
+     replace).
+   - Ask what to change. Change only what they ask.
+   - When they're happy, help them export (Export, top right:
+     PDF, PowerPoint, Google Slides, Canva) and offer a blank copy
+     with placeholders as their reusable template:
+     [Company]_[Document]_TEMPLATE.
+
+SHARED RULES (apply to every template and every option)
+- Brand consistency: follow the brand guidelines, fonts, colours and
+  logo. Use only the supplied logo files; keep the logo's
+  proportions; never redraw, stretch or recolour it outside the brand
+  rules. The logo must be readable: light logo on dark backgrounds,
+  dark logo on light backgrounds. Use the brand's own graphic
+  elements (shapes, lines, patterns, icon style).
+- Clear hierarchy: headings, subheadings, body text and supporting
+  details are clearly different in size and weight.
+  Guide (16:9): title 56–72 px · subtitle 28–36 px · body 20–24 px ·
+  big numbers 96–160 px. A4: name/title 20–24 pt · body 10–11 pt.
+  Max 2 font families (from the brand).
+- Consistent layout: one grid, the same alignment, spacing and
+  margins throughout (16:9: at least 80 px; A4: 15 mm). Content
+  slides share the same title position and style; repeated
+  components (cards, stat boxes, quotes, tables) look the same.
+- Clean design: uncluttered and appropriate to the brand, no
+  unnecessary decoration, no clipart, no emojis, no generic stock
+  look. One accent colour per slide; follow the brand's colour
+  balance.
+- Readability: text sizes readable at the intended viewing size
+  (screen, print or phone) and contrast at least WCAG AA.
+- Content fit: no overlapping elements, cropped text or content
+  extending beyond the page or slide.
+- Too much content: suggest shortening the text or splitting it
+  across two slides at a logical point (e.g. introduction on one
+  slide, detailed explanation on the next). Never shrink text below
+  the readable sizes to make it fit. For fixed single-page formats
+  (A4 bio, social posts), suggest shortening the copy before changing
+  the format. As a guide: max ~40 words and 6 bullets per slide.
+- Preset output: follow the template's FORMAT (dimensions, length,
+  file type) and keep it editable where the format allows. Flag any
+  change you propose (e.g. extra slides, a different size).
+- Images and photos: use the client's own photos and images
+  wherever the layout has image space ([Photo] boxes) and add image
+  space where it suits the brand (e.g. the brand manual uses
+  photography). Photos from the client's brand manual or materials
+  may be used too. Crop to fill the frame without stretching, keep
+  faces and key subjects in view, and apply the brand's photo style
+  (overlay, colour grade, shape) from the manual. Show client logos
+  only if the client says they may. Never use stock, AI-generated
+  or RecruitHub demo photos unless the client asks. No photos →
+  keep a clearly labelled [Photo] box or a layout that works with
+  brand colours and graphic elements instead.
+- Accurate information: never invent company facts, testimonials,
+  statistics, people, photos or contact details. Clearly mark
+  placeholders and sample text.
+- Language consistency: follow the client's chosen language and
+  spelling convention (e.g. UK or US English) everywhere, including
+  dates, currency and number formats.
+- Final check: review branding, spelling, readability, alignment and
+  overflow on every slide/page. Check the exported file where
+  possible, and say clearly if anything could not be verified.
+- Finished deliverable: create the requested material itself (a
+  Design or a file), not just a description or outline. If the
+  required format is not available here, explain this and offer the
+  closest alternative.
+
+THE KINDS OF CONTENT BELOW
+  PLACEHOLDER — the fallback label for each element.
+  REUSABLE COPY — general wording from the RecruitHub template that
+  fits many agencies. Option 1: use it as is. Option 3: offer it as
+  a ready draft; use it only after the client confirms it is true
+  for them; adapt it to their tone and niche.
+  SAMPLE TEXT — the demo facts from the RecruitHub template
+  (numbers, client names, people, quotes, prices). Option 1: use as
+  sample text (with the demo identities replaced, see 4.1).
+  Option 3: only as an example of the answer you need ("For
+  example: 90% fill rate. What are yours?"). Options 2 and 3:
+  NEVER in the finished document.
+  QUESTIONS — the interview for option 3.
+  TIPS — extra guidance for this template.
+Testimonials and quotes in a finished document (options 2 and 3)
+must be real and approved by the person quoted. Never write or
+"improve" a testimonial beyond light trimming the author has
+approved.
+
+=====================================================================
+TEMPLATE: SEARCH PROGRESS REPORT
+=====================================================================
+DATA RULES
+ Use ONLY the data the client gives. Never estimate or invent numbers,
+ candidate names or market figures. When you calculate percentages,
+ show them with the raw numbers so they can check. Keep candidate
+ names exactly as given (first names / initials are fine). Remove rows
+ or slides without data. With option 1 (sample text), use the sample
+ numbers below so the tables look real, replace every candidate name
+ with [Candidate A], [Candidate B] …, and list everything as
+ "replace before use".
+
+SLIDES
+
+ 1 COVER
+   LAYOUT: Dark background with a large diagonal brand-colour shape on
+     the right and a short accent bar top-left. Big title on the left,
+     "Prepared for:" line in the accent colour below it, company logo
+     bottom-left.
+   PLACEHOLDER: "Search Progress Report" · Prepared for: [Client name]
+     [Client logo] · [Role title] · [Date]
+   QUESTIONS: Which client is the report for (and may we show their
+     logo)? Which role is the search for? Report date?
+
+ 2 SEARCH PROGRESS
+   LAYOUT: Light background, accent bar on the left edge. Title
+     top-left, with 2 small bullet lines to its right (search start
+     date, target completion date). Below: one full-width table with
+     3 columns (Activity type · Volume · Response / Engagement / Notes),
+     header row in the accent colour, thin light row lines, notes in
+     small text.
+   PLACEHOLDER: "Search Progress" · Search start date: [Date] · Target
+     search completion date: [Date] · table rows: [Activity] · [00] ·
+     [Note – max 25 words]
+   QUESTIONS: Search start date and target completion date? For each
+     activity: the number and a short note (response rate, quality,
+     why candidates dropped out)? Which candidates were submitted and
+     which reached 1st / 2nd interviews?
+   REUSABLE COPY (rows): LinkedIn InMail outreach · Advert / Community
+     response · Candidate outbound calls · Candidate screening calls ·
+     Shortlisted candidates · CV submissions · 1st interviews completed
+     · 2nd+ interviews completed
+   SAMPLE TEXT: see FULL SAMPLE TEXT (98 InMails, 74% open rate …).
+
+ 3 REQUIREMENTS AGAINST THE MARKET
+   LAYOUT: Light, same title style and accent bar as slide 2. Title
+     with a small "Data date:" bullet to its right. Below: a centred
+     2-column table (Activity type · Volume), accent header row; the
+     employment-type row lists the breakdown on separate lines.
+   PLACEHOLDER: "Requirements against [Market]" · Data date: [Date] ·
+     Candidates total [000] · Employment type [Full-time (00) /
+     Part-time (00) / Contract (00) / Internship (00)] · Salary
+     increase to agreed budget [00%] · Notice periods [0–00 weeks] ·
+     Time to hire [0–0 weeks]
+   QUESTIONS: Which market did you benchmark (country / region)? Date
+     of the data and its source (e.g. LinkedIn Talent Insights)? The
+     figures for each row?
+   REUSABLE COPY (rows): Candidates total · Candidates employment type
+     · Salary increase to agreed budget · Notice periods · Time to hire
+
+ 4 COMPETITOR & MARKET ANALYSIS
+   LAYOUT: Light, same title style. Left ~65%: a screenshot of the
+     market data (e.g. a talent-insights dashboard: talent pool, where
+     the talent is located, who employs it, hiring demand) in a clean
+     frame. Right ~35%: a short analysis paragraph (2 short
+     paragraphs).
+   PLACEHOLDER: "Competitor & Market Analysis [Market]" ·
+     [Screenshot: market data – attach] · [Analysis – max 70 words]
+   QUESTIONS: Can you attach a screenshot of your market data? What
+     are the 2–3 main findings (talent scarcity, competing employers,
+     salary vs budget)?
+   REUSABLE COPY (patterns): "This competitor & market analysis of the
+     [Role] role within the [Market] market shows …" · "You are
+     competing against [global brands / local competitors] and a
+     candidate shortage." · "On top of this, the average salary for
+     this role in the [Market] market is [in / out of] budget."
+   SAMPLE TEXT: Product Owner role, UK market, only 31 changing jobs
+     last year, average salary out of budget.
+   Note: never recreate or invent the dashboard. No screenshot → a
+     clearly labelled [Screenshot: market data] box.
+
+ 5 SUMMARY – RECOMMENDATIONS & FEEDBACK
+   LAYOUT: Light, accent bar left. Left ~55%: title "Summary", accent
+     subtitle "Recommendations & feedback", then 3–4 short paragraphs.
+     Right ~45%: a full-height photo (business / meeting mood) bleeding
+     to the edge.
+   PLACEHOLDER: "Summary" · "Recommendations & feedback" · [Market
+     coverage – 1 sentence] · [Recommendation – 2–3 sentences] ·
+     [Next step – 1 sentence] · [Photo: team, office or meeting]
+   QUESTIONS: How much of the market did the search cover? What do you
+     recommend (e.g. make an offer to which candidate, widen the
+     brief, adjust the budget, look at other markets)? Any feedback for
+     the client? Do you have a photo to use here?
+   REUSABLE COPY: "With our search model we have covered [00]% of the
+     [Market] market specific to the core requirements and salary
+     flexibility we agreed on." · "As discussed, my recommendation
+     would be to …" · "My recommendation would [not] be to look in
+     alternative markets."
+   SAMPLE TEXT: 96% of the Maltese market covered; hybrid role in
+     Malta; recommend an offer to [Candidate A]; not to look in
+     alternative markets.
+
+ 6 CONTACT
+   LAYOUT: Dark background, thin light line top, title "Contact us",
+     3 contact rows with line icons (web, phone, email), logo
+     bottom-right, accent bar along the bottom-right edge.
+   PLACEHOLDER: [Website] · [Phone] · [Email]
+
+FULL SAMPLE TEXT (as in the RecruitHub template, for option 1)
+ Cover: Search Progress Report · Prepared for: [Client name] [Client
+  logo]
+ Search Progress: Search start date: 19/02/2024 · Target search
+  completion date: 30/03/2024
+  LinkedIn InMail outreach · 98 · 74% open rate, high engagement across
+   the targeted industry and requirements with a tailored headhunting
+   approach to specific individuals
+  Advert / Community response · 85 · Only one qualified candidate out
+   of all applications; rejected as too junior in experience
+  Candidate outbound calls · 19
+  Candidate screening calls · 14
+  Shortlisted candidates · 7 · 7 candidates were shortlisted to our
+   qualification process; 3 of the 7 were too junior in experience or
+   had salary requirements that didn't fit the budget
+  CV submissions · 5 · [Candidate A], [Candidate B], [Candidate C],
+   [Candidate D], [Candidate E]
+  1st interviews completed · 3 · 4 interview requests; decision to
+   cancel [Candidate E] due to mutual connections / prior interview
+   due diligence
+  2nd+ interviews completed · 2 · [Candidate A] and [Candidate B]
+   brought to final stage
+ Requirements against UK market (data date 29/02/2024): Candidates
+  total 725 (494 perm) · Employment type: Full-time (494), Part-time
+  (59), Contract (170), Internship (8) · Salary increase to agreed
+  budget 42% · Notice periods 4–12 weeks · Time to hire 2–3 weeks
+ Competitor & Market Analysis UK: This competitor & market analysis of
+  the Product Owner role within the UK market shows it is extremely
+  scarce: you are competing against global brands and a candidate
+  shortage, with only 31 people changing jobs last year, which shows
+  this would be extremely challenging. On top of this, the average
+  salary for this role in the UK market is out of budget.
+ Summary – Recommendations & feedback: With our search model we have
+  confidently covered 96% of the Maltese market specific to the core
+  requirements and salary flexibility we agreed on with budget
+  approvals. With the business's approach to recruit into a
+  cross-functional team working on a hybrid basis in Malta for this
+  Product Owner position, I am confident and highly recommend that we
+  make an offer to either [Candidate A] or [Candidate B]. As
+  discussed, my recommendation would be to extend an offer to
+  [Candidate A] and secure her for the Product Owner role at [Client
+  name]: she offers a lot of value in numerous areas and has shown her
+  ability to grow extensively in her previous roles. My recommendation
+  would not be to look in alternative markets.
+ Contact: [Website] · [Phone] · [Email]
+
+TIPS
+- Purpose: a mid-search update that shows the client the work behind
+  the search, what the market looks like and what you recommend next.
+  Factual, confident tone; no blame.
+- Keep the notes column short: one clear reason or takeaway per row.
+  Leave notes empty where there is nothing worth saying.
+- Candidate names: share them only in the client's own report and as
+  agreed with the candidates; first names or initials are often enough.
+- Always date the market data and name its source, so the client knows
+  how current it is.
+- No market data or screenshot? Drop slides 3 and 4 and keep progress,
+  summary and contact.
+- The slide titles can carry the takeaway, e.g. "Only 31 people changed
+  jobs last year".
+=====================================================================

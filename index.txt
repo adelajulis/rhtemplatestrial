@@ -50,4 +50,9 @@ TEMPLATES
     Use it for: A short intro of the company to email or share.
     Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/05.txt
 
+06  Search Progress Report
+    Format: Presentation 16:9 · 6 slides with tables · PDF / PowerPoint
+    Use it for: Updating a client mid-search: activity, market data and your recommendation.
+    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/06.txt
+
 =====================================================================
