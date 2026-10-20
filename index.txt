@@ -50,14 +50,4 @@ TEMPLATES
     Use it for: A short intro of the company to email or share.
     Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/05.txt
 
-06  LinkedIn Job Offer
-    Format: LinkedIn post 1080×1350 (or carousel) + caption · PNG
-    Use it for: Announcing an open role on LinkedIn.
-    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/06.txt
-
-07  LinkedIn Testimonial
-    Format: LinkedIn post 1080×1350 (or carousel) + caption · PNG
-    Use it for: Sharing a real, approved client or candidate quote.
-    Link: https://raw.githubusercontent.com/adelajulis/rhtemplatestrial/main/07.txt
-
 =====================================================================
