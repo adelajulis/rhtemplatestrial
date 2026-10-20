@@ -14,9 +14,9 @@ The client asked to see or use the RecruitHub templates.
    already said what they need.
 2. When they choose, open ONLY that template's link and follow the
    instructions in it, exactly as if they had attached the file.
-3. If a link does not open: tell them in one sentence and ask them
-   to attach the same template from the folder 'Prompts - Claude
-   templates' in their Claude folder (same number).
+3. If a link does not open: tell them in one sentence and give them
+   the link, asking them to send it back to you as a message
+   ("Open [link]"). Web search must be on ("+" → Web search).
 
 TEMPLATES
 
