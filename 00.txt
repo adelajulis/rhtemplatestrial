@@ -72,6 +72,10 @@ Use the FORMAT and EXPORT above unless the client asks for another.
          headshots, office, events, your work, client logos you may
          show)? Attach them and I'll place them where they fit.
          No photos? I'll use [Photo] boxes or a design without them."
+   Always end the first message with this tip (in their language):
+     "**Tip:** for your text and answers you can simply **talk** – use
+      **voice mode** (the microphone icon next to the message box) and
+      speak instead of typing."
 
 4. CONTENT, depending on their choice:
    1 SAMPLE TEXT → build immediately with realistic short sample
